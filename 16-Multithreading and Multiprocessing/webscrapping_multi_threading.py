@@ -1,6 +1,4 @@
 '''
-Prueba Cambio
-
 Real-World Example: Multithreading for I/O-bound Tasks
 Scenario: Web Scraping
 Web scraping often involves making numerous network requests to 
